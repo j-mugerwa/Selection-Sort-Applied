@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+label {
+    font-size: 16px;
+    margin-right: 5px;
+}
+
+input {
+    width: 50px;
+    text-align: center;
+}
+
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    color: white;
+}
+
+#generate-btn {
+    background-color: #28a745;
+}
+
+#sort-btn {
+    background-color: #007bff;
+}
+
+#device-list, #sorted-list {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.device {
+    width: 80%;
+    max-width: 400px;
+    padding: 10px;
+    margin: 5px;
+    background-color: steelblue;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}
