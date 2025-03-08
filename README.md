@@ -17,3 +17,5 @@
 🔹 Optimized Network Resource Usage: Ensures no device consumes excessive bandwidth before others get served.
 
 🔹 Prevention of Congestion: Helps in traffic shaping by prioritizing lightweight network flows first.
+
+Check out the web version via: **https://selection-sort-algo.netlify.app/**
